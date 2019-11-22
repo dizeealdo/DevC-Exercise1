@@ -1,2 +1,69 @@
-# DevC JavaScript Development Course
-Exercise 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Exercise 1</title>
+</head>
+<body>
+    <center>
+        <h1>Biodata</h1>
+    </center>
+	<h3>BIODATA DIRI</h3>
+	<li>Nama Lengkap		   : Muhammad Naldo</li>
+	<li>Nama Panggilan		   : Aldo</li>
+	<p>saya mulai tertarik dengan dunia programing sejak 1 tahun lalu </p>
+	<p>dan bercita-cita untuk menjadi web developer dan game developer, </p>
+	<p>saat ini saya mulai mempelajari Unity 3d dengan bahasa  c# dan html</p>
+	<li>Tempat & tanggal Lahir : Bukittinggi 17 juni 1982</li>
+	<li>Agama 				   : Islam</li>
+	<li>Tinggi/Berat Badan	   : 170cm/ 75</li>
+	<LI>Pekerjaan			   : WIRASWASTA</li>
+	<li>Suku				   : Minang</li> 
+	<li>Status				   : Menikah</li>
+	
+	<h3> CONTACT ME </h3>
+	<li>Alamat Sekarang		   : Kavling Sagulung baru Blok T No %8</li>
+	<li>Nomor HP			   : 085269347211</li>
+	<li>Alamat Email		   : dizee.aldo82@gmail.com</li>
+	<li>facebook			   : dizee aldo</li>
+	<li>instagram			   : dizee aldo</li>
+	
+	<h3>KEMAMPUAN</h3>
+	<li>unity3d</li>
+	<li>c#</li>
+	<li>softwareblender</li>
+	<li>html</li>
+	<li>css</li>
+	<li>php</li>
+	<li>sql</li>
+	<li>gimp</li>
+	<li>inkscape</li>
+	
+	<h3> PENGALAMAN KERJA</h3>
+	<li> kasir F&B hotel</li>
+	<li>disc jockey pub</li>
+	<li>pipe fitter shipyard</li>
+	<li>koki masakan padang</li>
+	
+	
+	
+	<h3>RIWAYAT PENDIDIKAN</h3>
+	<table border="5">
+		<tr> 
+			<td> Nama Sekolah</td>
+		    <td> Tahun</td>
+		<tr>
+						<td> SD 013 Bukitiinggi</td>
+			<td>1988-1994</td>
+	
+		</tr>
+		<tr>
+			<td>SMP 06 Batam</td>
+			<td> 1994-1997</td>
+		</tr>
+		<tr>	
+			<td> SMK KARTINI Batam</td>
+			<td> 1997-2000</td>
+	    </tr>
+	</table>
+</body>
+</html>
